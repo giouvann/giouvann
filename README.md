@@ -1,4 +1,4 @@
-## Hi there, I'm Giovanna Costa <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyazcwajU5cHdia2d1Y3lwcWc5NnA2dHM0bzQ5ejNrYTQ3cXBoeW13MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YfIqRqgD6HxsPTIwfg/giphy.gif" width="120px">
+## Hi there, I'm Giovanna Costa <img src="./cat.gif" width="120px">
 
 ### A little bit about me:
 

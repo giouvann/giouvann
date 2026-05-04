@@ -1,4 +1,4 @@
-## Hi there, I'm Giovanna Costa <img src="./cat.gif" width="120px">
+## Hi there, I'm Giovanna Costa <img src="./cat.gif.gif" width="120px">
 
 ### A little bit about me:
 

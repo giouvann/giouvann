@@ -1,7 +1,4 @@
-<div style="display: flex; align-items: center; gap: 10px;">
-  <h2 style="margin: 0;">Hi there, I'm Giovanna Costa.</h2>
-  <img src="./cat.gif.gif" width="120px" />
-</div>
+## Hi there, I'm Giovanna Costa <img src="./cat.gif.gif" width="120px" style="vertical-align: middle;" />
 
 ### A little bit about me:
 

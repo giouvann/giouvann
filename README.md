@@ -1,9 +1,12 @@
-## Hi there, I'm Giovanna Costa <img src="./cat.gif.gif" width="120px">
+<div style="display: flex; align-items: center; gap: 10px;">
+  <h2 style="margin: 0;">Hi there, I'm Giovanna Costa.</h2>
+  <img src="./cat.gif.gif" width="120px" />
+</div>
 
 ### A little bit about me:
 
 - Technical degree in Systems Development  
-- Undergraduate Computer Science student at UFRPE  
+- Undergraduate Computer Science student at UFRPE (Universidade Federal Rural de Pernambuco)  
 - Member of LASER – Embedded Systems and Robotics Laboratory  
 
 ---

@@ -9,19 +9,15 @@
 ---
 
 ### Languages & Tools
+<img src="https://skillicons.dev/icons?i=java,c,html,css,git,linux" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,html,css,git,linux" />
-</p>
 
 ---
 
 
-<p align="center">
   <a href="mailto:giovanniscostis@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-1F1F1F?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/[SEU-LINK](https://www.linkedin.com/in/giovanna-costa-591544258/)">
     <img src="https://img.shields.io/badge/LinkedIn-1F1F1F?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</p>

@@ -16,7 +16,6 @@
 
 ---
 
-### Contact
 
 <p align="center">
   <a href="mailto:giovanniscostis@gmail.com">

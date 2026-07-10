@@ -9,6 +9,9 @@
 
 
 ## Languages & Tools
+<img src="https://skillicons.dev/icons?i=java,c,html,css,git,linux" />
+
+## Contact
 <table>
   <tr>
     <td>

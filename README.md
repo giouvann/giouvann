@@ -1,4 +1,5 @@
-## Hi there, I'm Giovanna Costa <img src="./cat.gif.gif" width="120px" style="vertical-align: middle;" />
+## Hi there, I'm Giovanna Costa 
+<img src="./cat.gif.gif" width="120px" style="vertical-align: middle;" />
 
 ### A little bit about me:
 
